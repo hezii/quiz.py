@@ -6,6 +6,7 @@ q1 = str("""What is the biggest channel on YouTube (based on subscribers)?
 2) Youtube Gaming
 3) PewDiePie
 4) JustDestiny""") #first question
+c2 = False
 a2 = int(0) #users answer to second question
 q2 = str("""What does the Youtuber, PewDiePie posts on his channel?
 1) Meme review
